@@ -1,2 +1,7 @@
-# Devops_project_code
-repository to push codes related to devops project
+Devops project
+This is a small applicaiton which contains main and test folders.  
+Main contains application code.  
+Test contains test cases.  
+It also contains pom.xml which has all dependences and artfact name and version
+this repo also includes jenkinsfile, dockerfile, kubernetes manifests
+
